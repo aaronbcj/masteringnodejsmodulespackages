@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C738DED3-4959-4418-B99B-7F937D639570}"
+	ProjectSection(SolutionItems) = preProject
+		..\examples\module1\CircularDependencies\a.js = ..\examples\module1\CircularDependencies\a.js
+		..\examples\module1\CircularDependencies\b.js = ..\examples\module1\CircularDependencies\b.js
+		..\examples\module1\CircularDependencies\index.js = ..\examples\module1\CircularDependencies\index.js
+		..\examples\module6\shrinkwrap\npm-shrinkwrap.json = ..\examples\module6\shrinkwrap\npm-shrinkwrap.json
+		..\examples\module6\shrinkwrap\package.json = ..\examples\module6\shrinkwrap\package.json
+		..\examples\module1\CircularDependencies\package.json = ..\examples\module1\CircularDependencies\package.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
